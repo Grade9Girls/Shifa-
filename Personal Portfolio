@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Portfolio</title>
+
+</head>
+
+<body>
+
+<header>
+
+<nav id="navbar">
+
+<a href="#" class="nav-link">About Me</a>
+
+<a href="#work" class="nav-link">My Projects</a>
+
+<a href="#skills" class="nav-link">My Skills</a>
+
+<a href="#contact" class="nav-link">Contact</a>
+
+</nav>
+
+</header>
+
+<!-header image start -->
+
+<div id="header" class="section">
+
+<img alt="" class="img-circle" src="https://i.pinimg.com/736x/8d/7a/c1/8d7ac13503b6159a109314a3b9906a60.jpg">
+
+<p>Shifa Faruk Bagwan</p>
+
+</div>
+
+<!-- header image end -->
+
+<About Me saction start -->
+
+<div class="section'> 
+
+  <h1 id=#><span>About Me</span></h1>
+
+ <p>
+
+Hey! I'm <b>Shifa Bagawan</b> studying in Grade 9 (freshman in highschool). I am quite intrested in a few things, like: sketching, playing basketball, reading mystery books, and watching movies and webseries. Math is a subject which im most intressted in, adding business studies too. These subjects are most intresting to me, definetly steal my attention.In addition, for my carrer plan, im going to opt for a course related to technology and could also search for somthing with numbers.
+
+ </p>
+
+<div>
+
+<!--About Me section end!-->
+ 
+<!--My projects section start!-->
+
+<div class="section">
+
+<h1 id-work-<span>My Projects</span></h1>
+
+<div class="gallery">
+
+
+<div class="gallery-item">
+
+  <img class="gallery-image" src="https://i.pinimg.com/originals/8c/17/5a/8c175a79f2528c5633ca55a519e9eeb7.jpg" alt="study session whith laptop, books, coffee and a snack at a local coffee shop">
+
+</div>
+
+<div class="gallery-item>
+
+<img class="gallery-image" src="https://www.tripsavvy.com/thmb/8kVW9b_xmQNkouLqcLnKkZ7I-LI=/2121x1414/filters:fill(auto,1)/GettyImages-899489460-5c4e8bfcc9e77c00016f35cc.jpg" alt="sunset behind San Francisco city Skyline">
+
+</div>
+
+<div class="gallery-tem">
+
+<img class="gallery-image" src="https://images.unsplash.com/photo-1506045412240-22980140a405?w=500&h=500&fit=crop" alt="people holding umbrellas on a busy street at night lit by street lights and illuminated signs in Tokyo, Japan">
+
+</div>
+
+<div class="gallery-item">
+
+      <img class="gallery-image" src="https://ak4.picdn.net/shutterstock/videos/24198004/thumb/1.jpg?ip=x480" alt="car interior from a busy road at night central back seat position showing driver and blurred view through windscreen of a busy road at night">
+	  
+	  </div>
+
+<div class="gallery-item">
+
+<img class="gallery-image" src="https://images.unsplash.com/photo-1445810694374-0a94739e4a03?w=500&h=500&fit=crop" alt="back view of woman wearing a backpack and beanie waiting to cross the road on a busy street at night in New York City, USA"> 
+
+</div>
+
+<div class="gallery-item">
+
+<img class="gallery-image" src="https://images.unsplash.com/photo 1488334803289-16231249dd1e?w=500&h=500&fit=crop" alt="man wearing a black jacket white shirt, blue jeans, and brown boots, playing a white electric guitar while sitting on an amp">
+ </div>
+
+</div>
+
+<!--My projects section end -->
+
+<--My Skills section start -->
+
+<div class="section">
+
+<h1 id=skills><span>My Skills</span></h1>
+
+<ul>
+
+<li>Html <br />
+
+<progress min="0" max="100" value="80"></progress>
+
+<li>Css<br />
+
+<progress min="0" max="100" value="70"></progress> </li>
+
+<li>Python <br />
+
+<progress min="0" max="100" value="70"></progress>
+
+</li>
+
+</ul>
+
+</div>
+
+<- My Skills section end->
+
+<-Form section start ->
+
+<!-- Submit button will send the details to the mail id given in form action attribute 1>
+
+<div class="section">
+
+<h1 id contact><span>Contact Me</span></h1>
+
+<form action="bshifa2021@gmail.com" method="post" enctype="text/plain">
+
+<input name="name" placeholder="Name" type="text" required /><br/>
+
+<input name="email" placeholder="Email" type="email" required /><br> <textarea name="message" placeholder="Message" required></textarea>
+
+<input type="submit" value="SEND" class="submit"/>
+
+</div>
+
+</form>
+
+<!--Form section end -->
+
+<!--Contacts section start -->
+
+<div class="section" id="contacts">
+
+<h1><span>Follow Me</span></h1>
+
+<div>
+
+<a href="http://facebook.com/">
+
+<img alt="Facebook" src="https://www.facebook.com/SpanInternationalAcademy/"/>
+
+</a>
+
+<a href="https://in.pinterest.com/">
+
+<img alt="Pinterest" src="https://pin.it/32crb7s"/>
+
+</a>
+
+</div>
+
+</div>
+
+<!-- Contacts section end -->
+
+<div class="copyright">
+
+  &copy; 2020 A sincere web developer. All rights reserved.
+
+</div>
+
+
+</body>
+
+</html>
