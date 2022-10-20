@@ -26,27 +26,27 @@
 
 </header>
 
-<!-header image start -->
+<!--header image start -->
 
 <div id="header" class="section">
 
 <img alt="" class="img-circle" src="https://i.pinimg.com/736x/8d/7a/c1/8d7ac13503b6159a109314a3b9906a60.jpg">
 
-<p>Shifa Faruk Bagwan</p>
+<p><b>Shifa Faruk Bagawan</b></p>
 
 </div>
 
-<!-- header image end -->
+<!--header image end -->
 
-<About Me saction start -->
+<!--About Me section start -->
 
-<div class="section'> 
+<div class="section"> 
 
   <h1 id=#><span>About Me</span></h1>
 
  <p>
 
-Hey! I'm <b>Shifa Bagawan</b> studying in Grade 9 (freshman in highschool). I am quite intrested in a few things, like: sketching, playing basketball, reading mystery books, and watching movies and webseries. Math is a subject which im most intressted in, adding business studies too. These subjects are most intresting to me, definetly steal my attention.In addition, for my carrer plan, im going to opt for a course related to technology and could also search for somthing with numbers.
+Hey! I'm <b>Shifa Bagawan</b> studying in Grade 9 (freshman in highschool). I am quite intrested in a few things, like: sketching, playing basketball, reading mystery books, and watching movies and webseries, also taking scenery pictures. Math is a subject which im most intressted in, adding business studies too. These subjects are most intresting to me, definetly steal my attention.In addition, for my carrer plan, im going to opt for a course related to technology and could also search for somthing with numbers.
 
  </p>
 
@@ -95,14 +95,14 @@ Hey! I'm <b>Shifa Bagawan</b> studying in Grade 9 (freshman in highschool). I am
 
 <div class="gallery-item">
 
-<img class="gallery-image" src="https://images.unsplash.com/photo 1488334803289-16231249dd1e?w=500&h=500&fit=crop" alt="man wearing a black jacket white shirt, blue jeans, and brown boots, playing a white electric guitar while sitting on an amp">
- </div>
+<img class="gallery-image" src="https://images.unsplash.com/photo-1486334803289-1623f249dd1e?w=500&h=500&fit=crop" alt="man wearing a black jacket white shirt, blue jeans, and brown boots, playing a white electric guitar while sitting on an amp">
+   </div>
 
 </div>
 
 <!--My projects section end -->
 
-<--My Skills section start -->
+<!--My Skills section start -->
 
 <div class="section">
 
@@ -128,11 +128,11 @@ Hey! I'm <b>Shifa Bagawan</b> studying in Grade 9 (freshman in highschool). I am
 
 </div>
 
-<- My Skills section end->
+<!--My Skills section end -->
 
-<-Form section start ->
+<!--Form section start -->
 
-<!-- Submit button will send the details to the mail id given in form action attribute 1>
+<!-- Submit button will send the details to the mail id given in form action attribute -->
 
 <div class="section">
 
@@ -162,13 +162,13 @@ Hey! I'm <b>Shifa Bagawan</b> studying in Grade 9 (freshman in highschool). I am
 
 <a href="http://facebook.com/">
 
-<img alt="Facebook" src="https://www.facebook.com/SpanInternationalAcademy/"/>
+<img alt="Facebook" src="https://www.sololearn.com/Uploads/icons/facebook.png" />
 
 </a>
 
-<a href="https://in.pinterest.com/">
+<a href="http://twitter.com/">
 
-<img alt="Pinterest" src="https://pin.it/32crb7s"/>
+<img alt="Twitter" src="https://www.sololearn.com/Uploads/icons/twitter.png" />
 
 </a>
 
